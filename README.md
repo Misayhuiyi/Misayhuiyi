@@ -203,6 +203,7 @@ I am learning software engineering through long-lived projects and open-source c
 ## Contact / 联系方式
 
 - GitHub: [@Misayhuiyi](https://github.com/Misayhuiyi)
+- Email: [2769584073@qq.com](mailto:2769584073@qq.com)
 
 ---
 
