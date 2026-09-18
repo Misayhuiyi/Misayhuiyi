@@ -46,6 +46,48 @@ A Python-based local coding agent for understanding, modifying and validating re
 
 ---
 
+### Agentic Dev Workflow — Long-Lived AI Development System
+
+**Agent Skills · Context Engineering · Verification · Cross-Session Continuity · Workflow Design**
+
+一套面向长期软件项目的 AI 协作开发工作流基座。它不把流程机械地复杂化，而是根据每次改动的风险与复杂度，动态选择直接实施、设计规划、验证审查或跨会话接续，并将规则、上下文和任务状态沉淀为可维护的项目资产。
+
+A reusable AI-assisted development workflow for building and maintaining long-lived software projects with risk-adaptive process, persistent context and evidence-based verification.
+
+**Highlights / 核心能力**
+
+- 10 个项目生命周期 Skill 与 14 个工程方法 Skill
+- 按需加载规则与上下文，控制长期 Agent 协作的信息噪声
+- 跨会话任务状态、验证证据与精确接续机制
+- Codex、Claude Code、Gemini 等工具的轻量适配入口
+- 第三方来源锁定、适配器指纹与可维护升级治理
+- 56 项辅助工具回归测试，覆盖状态恢复、路径边界与适配冲突
+
+[View Agentic Dev Workflow →](https://github.com/Misayhuiyi/Agentic-dev-workflow)
+
+---
+
+### Claude_emotional — Long-Term Memory Companion Agent
+
+**Long-Term Memory · MCP · Multimodal · Proactive Agent · Context Engineering**
+
+一个通过微信交互的实验性情感陪伴 Agent，重点探索人格连续性、长期记忆、情绪相关上下文、主动交互与多模态能力如何组合成可持续运行的个人 Agent 系统。
+
+An experimental companion agent exploring persistent identity, long-term memory, proactive interaction and multimodal capabilities in a continuously running personal AI system.
+
+**Highlights / 核心能力**
+
+- 热 / 温 / 冷分层记忆与 SQLite + FTS5 长期存储
+- Memory Gate 权重、记忆晋升、遗忘与自动摘要机制
+- MCP 记忆工具、会话同步与跨进程状态感知
+- 图片理解、本地语音识别、表情包与主动推送能力
+- Feature Flags、自动备份与 Web 记忆管理面板
+- 可删除记忆、反依赖设计与危机处理等安全边界
+
+[View Claude_emotional →](https://github.com/Misayhuiyi/Claude_emotional)
+
+---
+
 ### MedAgent — Agentic RAG for Complex Workflows
 
 **Agentic RAG · Multi-Agent · Retrieval · Skills · FastAPI · SSE · React**
